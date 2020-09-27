@@ -1,4 +1,4 @@
-# Convert fahrenheit to celsius
+"""Convert fahrenheit to celsius."""
 
 
 # Ask the user for the tempature in fahrenheit

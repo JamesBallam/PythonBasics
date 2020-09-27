@@ -1,4 +1,4 @@
-# Basic information queering and response printing.
+"""Basic information queering and response printing."""
 
 
 # Query user name
